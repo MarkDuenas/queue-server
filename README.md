@@ -2,9 +2,9 @@
 
 ### Author: Mark Duenas
 
-[Test Reports](https://github.com/MarkDuenas/socket-io-vendor/actions)
+[Test Reports](https://github.com/MarkDuenas/queue-server/actions)
 
-[Pull Req](https://github.com/MarkDuenas/socket-io-vendor/pull/2)
+[Pull Req](https://github.com/MarkDuenas/queue-server/pull/2)
 
 ## Set up
 
